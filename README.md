@@ -2,9 +2,10 @@
 
 Here we go, team.  The real-deal.  The big-time.  Apps with multi-views.  The whole app world is about to open up to you.
 
+![big time](http://i.giphy.com/iNUq5rs9KSrFm.gif)
+
 + Navigation Controllers
 + Segues
 + The Table View Delegate Functions
 
-![big time](http://i.giphy.com/iNUq5rs9KSrFm.gif)
 
