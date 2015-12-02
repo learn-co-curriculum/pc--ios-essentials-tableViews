@@ -34,3 +34,5 @@ Let's put our stack of view controllers into a navigation controller. In the sto
 ![](https://curriculum-content.s3.amazonaws.com/ios-segues-and-nav-controllers-unit/gorge_xcode_embed_navcon_menu.png)
 
 
+
+<a href='https://learn.co/lessons/pc--ios-essentials-tableViews' data-visibility='hidden'>View this lesson on Learn.co</a>
