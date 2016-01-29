@@ -35,4 +35,4 @@ Let's put our stack of view controllers into a navigation controller. In the sto
 
 
 
-<a href='https://learn.co/lessons/pc--ios-essentials-tableViews' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc--ios-essentials-tableViews' title='Table Views'>Table Views</a> on Learn.co and start learning to code for free.</p>
